@@ -26,10 +26,10 @@ This project is a simple port scanner written in Python. It allows the user to s
 2. Run the code
 
 ### Example Usage
-1- Start the program in VS Code as described above.
-2- Enter the target IP (e.g., 127.0.0.1 for localhost).
-3- Enter a port range (e.g., 20 to 80).
-4- View the output in the terminal to see which ports are open or closed.
+1. Start the program in VS Code as described above.
+2. Enter the target IP (e.g., 127.0.0.1 for localhost).
+3. Enter a port range (e.g., 20 to 80).
+4. View the output in the terminal to see which ports are open or closed.
 ### Notes
-1- This tool should be used for legitimate purposes only, such as testing your own network or with permission from the network owner.
-2- Scanning ports on unauthorized networks may violate laws or policies, so ensure you have the right to scan the target IP.
+1. This tool should be used for legitimate purposes only, such as testing your own network or with permission from the network owner.
+2. Scanning ports on unauthorized networks may violate laws or policies, so ensure you have the right to scan the target IP.
